@@ -15,7 +15,8 @@
       "cd $output",
       "fastq-dump --split-files $line",
       "cd ..",
-      "rm *.fastq",
+      "rm ${line}_1.fastq",
+      "rm ${line}_2.fastq",
       "done"
     ]
   },
