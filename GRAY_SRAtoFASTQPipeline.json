@@ -23,7 +23,7 @@
   },
   "resource_requests": {
     "memory": "8G",
-    "cpu": 2.0
+    "cpu": 1.0
   },
   "input": {
         "git": {
