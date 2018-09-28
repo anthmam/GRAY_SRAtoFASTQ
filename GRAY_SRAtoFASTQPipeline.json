@@ -22,7 +22,7 @@
   },
   
   "resource_requests": {
-    "memory": "8G",
+    "memory": "7G",
     "cpu": 1.0
   },
   
