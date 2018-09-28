@@ -18,12 +18,10 @@
       "done"
     ]
   },
-  
   "resource_requests": {
     "memory": "6G",
     "cpu": 1.0
   },
-  
   "input": {
         "git": {
             "url": "https://github.com/anthmam/GRAY_SRAtoFASTQ.git",
